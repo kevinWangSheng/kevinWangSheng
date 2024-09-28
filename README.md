@@ -51,9 +51,10 @@
 ### 💡 A Random Dev Quote
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
+  <blockquote style="background: #f9f9f9; border-left: 10px solid #ccc; margin: 1.5em 10px; padding: 1em 10px;">
+    <p style="font-style: italic;">"The most important feature of Rust is guaranteed memory safety."</p>
+    <footer>— <strong>Graydon Hoare</strong>, creator of Rust</footer>
+  </blockquote>
 </div>
 
 ---
