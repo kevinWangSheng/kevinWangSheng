@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/kevinWangSheng"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kevin-wang/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/kevin-wang/](https://www.linkedin.com/in/kevinwangwu/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
