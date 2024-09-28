@@ -57,11 +57,8 @@
 </div>
 
 ---
-
-<h3 align="center">💬 Let's connect and collaborate on exciting Java and Spring projects!</h3>
-
-<h3 align="center">🎉 Fun fact: I debug code faster than I can debug my life!</h3>
-
+<h3 align="center">🦀 Let's connect and build robust systems with Rust!</h3>
+<h3 align="center">🎉 Fun fact: I compile my thoughts faster than Rust compiles my code!</h3>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+coding;Building+robust+systems%2C+one+line+at+a+time)](https://git.io/typing-svg)
