@@ -41,8 +41,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=withdatabase&theme=vue)](https://github.com/kevinWangSheng/json_parser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=JUC&theme=vue)](https://github.com/kevinWangSheng/WebServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=json_parser&theme=vue)](https://github.com/kevinWangSheng/json_parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=WebServer&theme=vue)](https://github.com/kevinWangSheng/WebServer)
 
 </div>
 
