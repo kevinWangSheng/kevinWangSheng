@@ -58,16 +58,6 @@
 
 ---
 
-### 📚 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [kevinWangSheng/withdatabase](https://github.com/kevinWangSheng/withdatabase)
-2. 💪 Opened PR in [kevinWangSheng/JUC](https://github.com/kevinWangSheng/JUC)
-3. 🌟 Starred [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
-<!--END_SECTION:activity-->
-
----
-
 <h3 align="center">💬 Let's connect and collaborate on exciting Java and Spring projects!</h3>
 
 <h3 align="center">🎉 Fun fact: I debug code faster than I can debug my life!</h3>
