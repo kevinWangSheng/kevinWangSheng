@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kevinWangSheng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -38,8 +38,8 @@
 ### 📊 Mystical Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?kevinWangSheng&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?kevinWangSheng&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 ### 🏆 Legendary Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinWangSheng&theme=darkhub&no-frame=true&margin-w=15" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
 ### 🐍 Contribution Sorcery
 
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/your-username/kevinWangSheng/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
