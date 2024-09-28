@@ -1,71 +1,79 @@
-# 👋 Welcome to My Coding Universe! 🌌
+# 👋 Welcome to Kevin Wang's Code Universe! 🌌
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </div>
 
-<h3 align="center">🚀 Full-Stack Developer | 🌟 Open Source Enthusiast | 🎨 UI/UX Aficionado</h3>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 🌱 Continuous Learner</h3>
 
 <p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinWangSheng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/kevinWangSheng"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kevin-wang/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 🧙‍♂️ Magical Skills
+### 🛠️ Languages and Tools
 
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 Mystical Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?kevinWangSheng&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?kevinWangSheng&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinWangSheng&show_icons=true&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinWangSheng&layout=compact&theme=vue&hide=html" />
 </div>
 
 ---
 
-### 🏆 Legendary Trophies
+### 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinWangSheng&theme=darkhub&no-frame=true&margin-w=15" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=withdatabase&theme=vue)](https://github.com/kevinWangSheng/json_parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=JUC&theme=vue)](https://github.com/kevinWangSheng/WebServer)
+
 </div>
 
 ---
 
-### 🐍 Contribution Sorcery
+### 💡 A Random Dev Quote
 
 <div align="center">
-  <img src="https://github.com/your-username/kevinWangSheng/blob/output/github-contribution-grid-snake.svg" />
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 </div>
 
 ---
 
-<h3 align="center">💬 Ping me about <b>React, Node.js, API design, and cloud magic</b></h3>
+### 📚 Recent GitHub Activity
 
-<h3 align="center">🎉 Fun fact: I can code with my eyes closed... but the results aren't pretty!</h3>
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR in [kevinWangSheng/withdatabase](https://github.com/kevinWangSheng/withdatabase)
+2. 💪 Opened PR in [kevinWangSheng/JUC](https://github.com/kevinWangSheng/JUC)
+3. 🌟 Starred [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
+<!--END_SECTION:activity-->
+
+---
+
+<h3 align="center">💬 Let's connect and collaborate on exciting Java and Spring projects!</h3>
+
+<h3 align="center">🎉 Fun fact: I debug code faster than I can debug my life!</h3>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Happy+coding%2C+fellow+developer!;May+your+code+be+with+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+coding;Building+robust+systems%2C+one+line+at+a+time)](https://git.io/typing-svg)
 
 </div>
