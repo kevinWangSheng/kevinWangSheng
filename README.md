@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </div>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 🌱 Continuous Learner</h3>
+<h3 align="center">💻 Full-Stack Developer | 🦀 Rust Enthusiast | 🚀 Open Source Contributor | 🌱 Continuous Learner</h3>
 
 <p align="center">
   <a href="https://github.com/kevinWangSheng"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>&nbsp;
@@ -17,6 +17,8 @@
 
 <div align="center">
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -25,8 +27,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 </div>
-
----
 
 ### 📊 GitHub Stats
 
