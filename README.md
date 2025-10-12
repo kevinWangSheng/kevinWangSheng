@@ -1,4 +1,4 @@
-# 👋 Welcome to Kevin Wang's Code Universe! 🌌
+# 👋 Welcome to Shawn Wang's Code Universe! 🌌
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
@@ -7,8 +7,8 @@
 <h3 align="center">💻 Full-Stack Developer | 🦀 Rust Enthusiast | 🚀 Open Source Contributor | 🌱 Continuous Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/kevinWangSheng"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kevinwangwu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ShawnWangSheng"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/Shawnwangwu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinWangSheng&show_icons=true&theme=vue" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinWangSheng&layout=compact&theme=vue&hide=html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShawnWangSheng&show_icons=true&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnWangSheng&layout=compact&theme=vue&hide=html" />
 </div>
 
 ---
@@ -41,8 +41,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=json_parser&theme=vue)](https://github.com/kevinWangSheng/json_parser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinWangSheng&repo=WebServer&theme=vue)](https://github.com/kevinWangSheng/WebServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShawnWangSheng&repo=json_parser&theme=vue)](https://github.com/ShawnWangSheng/json_parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShawnWangSheng&repo=WebServer&theme=vue)](https://github.com/ShawnWangSheng/WebServer)
 
 </div>
 
