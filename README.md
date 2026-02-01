@@ -21,14 +21,6 @@ Backend engineer building Java middleware and exploring systems programming with
 
 ---
 
-### Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,rust,python,mysql,redis,docker,git,idea,vscode&theme=dark" />
-</div>
-
----
-
 ### Stats
 
 <div align="center">
